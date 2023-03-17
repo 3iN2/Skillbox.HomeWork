@@ -1,0 +1,8 @@
+C:\Users\lost-\source\repos\Work2\Work2\bin\Debug\Work2.exe.config
+C:\Users\lost-\source\repos\Work2\Work2\bin\Debug\Work2.exe
+C:\Users\lost-\source\repos\Work2\Work2\bin\Debug\Work2.pdb
+C:\Users\lost-\source\repos\Work2\Work2\obj\Debug\Work2.csproj.AssemblyReference.cache
+C:\Users\lost-\source\repos\Work2\Work2\obj\Debug\Work2.csproj.SuggestedBindingRedirects.cache
+C:\Users\lost-\source\repos\Work2\Work2\obj\Debug\Work2.csproj.CoreCompileInputs.cache
+C:\Users\lost-\source\repos\Work2\Work2\obj\Debug\Work2.exe
+C:\Users\lost-\source\repos\Work2\Work2\obj\Debug\Work2.pdb
