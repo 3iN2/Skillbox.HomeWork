@@ -1,0 +1,8 @@
+D:\Проекты C#\ConsoleApp1\Task5\bin\Debug\Task5.exe.config
+D:\Проекты C#\ConsoleApp1\Task5\bin\Debug\Task5.exe
+D:\Проекты C#\ConsoleApp1\Task5\bin\Debug\Task5.pdb
+D:\Проекты C#\ConsoleApp1\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+D:\Проекты C#\ConsoleApp1\Task5\obj\Debug\Task5.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\ConsoleApp1\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\Проекты C#\ConsoleApp1\Task5\obj\Debug\Task5.exe
+D:\Проекты C#\ConsoleApp1\Task5\obj\Debug\Task5.pdb

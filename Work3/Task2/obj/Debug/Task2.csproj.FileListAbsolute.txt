@@ -1,0 +1,8 @@
+D:\Проекты C#\ConsoleApp1\Task2\bin\Debug\Task2.exe.config
+D:\Проекты C#\ConsoleApp1\Task2\bin\Debug\Task2.exe
+D:\Проекты C#\ConsoleApp1\Task2\bin\Debug\Task2.pdb
+D:\Проекты C#\ConsoleApp1\Task2\obj\Debug\Task2.csproj.AssemblyReference.cache
+D:\Проекты C#\ConsoleApp1\Task2\obj\Debug\Task2.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\ConsoleApp1\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+D:\Проекты C#\ConsoleApp1\Task2\obj\Debug\Task2.exe
+D:\Проекты C#\ConsoleApp1\Task2\obj\Debug\Task2.pdb
